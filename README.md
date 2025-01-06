@@ -51,7 +51,7 @@ To find the intersection of a ray and a line segment:
 - Rays: **Yellow lines**
 - Obstacles: **White lines**
 
-![Screenshot](ss3.png)
+![Screenshot](ss3.PNG)
 
 ---
 
