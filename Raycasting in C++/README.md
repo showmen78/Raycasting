@@ -5,7 +5,7 @@ This project demonstrates a **raycasting simulation** in C++ using the Raylib li
 ## Features
 - **Dynamic Light Source:** The light source follows the mouse pointer.
 - **Obstacles:** Static line segments block the rays.
-- **Raycasting:** Rays are cast in 360° to detect the closest intersections.
+- **Raycasting:** Rays are cast in 360Â° to detect the closest intersections.
 - **Visual Effects:** 
   - Rays are drawn in **yellow** from the light source to the intersection points.
   - Obstacles are drawn in **white**.
@@ -51,7 +51,7 @@ To find the intersection of a ray and a line segment:
 - Rays: **Yellow lines**
 - Obstacles: **White lines**
 
-![Screenshot](ss3.png)
+![Screenshot](../ss3.PNG)
 
 ---
 
